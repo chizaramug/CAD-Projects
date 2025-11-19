@@ -1,0 +1,13 @@
+Each Folder must contain these items:
+
+STEP files
+
+IGES
+
+STL
+
+Fusion .f3d or SolidWorks .sldprt
+
+Technical drawings (PDF)
+
+Renders (PNG/JPG)
